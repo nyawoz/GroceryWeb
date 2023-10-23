@@ -1,0 +1,89 @@
+﻿.sa-icons{
+    flex-direction:row;
+}
+.container1 {
+    padding: 2rem 0rem;
+}
+
+@media (min-width: 576px) {
+    .modal-dialog {
+        max-width: 400px;
+    }
+
+        .modal-dialog .modal-content {
+            padding: 1rem;
+        }
+}
+
+.modal-header .close {
+    margin-top: -1.5rem;
+}
+
+.form-title {
+    margin: -2rem 0rem 2rem;
+}
+
+.btn-round {
+    border-radius: 3rem;
+}
+
+.delimiter {
+    padding: 1rem;
+}
+
+.social-buttons .btn {
+    margin: 0 0.5rem 1rem;
+}
+
+.signup-section {
+    padding: 0.3rem 0rem;
+}
+.homediv{
+    background-image:url(images/background4.jpg);
+    text-align:center;
+    height:280px;
+    width:100%;
+}
+.MiddleContent{
+    justify-content:center;
+}
+.homediv .h3{
+    text-decoration-color:white;
+    text-align:center;
+    color:white;
+}
+.homediv h5 {
+    text-decoration-color: white;
+    text-align:center
+}
+.centericons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    border: 3px solid green;
+}
+.img-wrapper{
+    max-width:100%;
+    height:33vh;
+    display:flex;
+    justify-content:center;
+}
+img{
+    max-height:100%;
+    max-width:100%;
+}
+.img-wrapper-feature {
+    max-width: 100%;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+}
+.nav-tabs {
+    margin-bottom: 15px;
+}
+
+.sign-with {
+    margin-top: 25px;
+    padding: 20px;
+}
